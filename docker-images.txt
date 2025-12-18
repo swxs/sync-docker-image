@@ -3,4 +3,5 @@
 # nginx:1.14.2
 # alpine
 
-postgres:16
+# postgres:16
+langflowai/langflow:latest
