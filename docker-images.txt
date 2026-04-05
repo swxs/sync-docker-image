@@ -4,6 +4,7 @@
 # alpine
 
 # postgres:16
+# node:16
 # langflowai/langflow:latest
+linuxserver/emulatorjs
 # docker.n8n.io/n8nio/n8n:latest
-node:16
