@@ -6,5 +6,5 @@
 # postgres:16
 # node:16
 # langflowai/langflow:latest
-linuxserver/emulatorjs
+linuxserver/emulatorjs:amd64-1.9.2
 # docker.n8n.io/n8nio/n8n:latest
